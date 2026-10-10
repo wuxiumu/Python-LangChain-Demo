@@ -27,7 +27,7 @@
 3. **M3**：研究小组编排（检索→分析→汇总）  
 4. **M4**：CLI / 简易 Web + smoke  
 
-详见 `docs/ROADMAP.md`。
+详见 `docs/ROADMAP.md` / `docs/CHECKLIST-M0.md`。
 
 ## 定制合作（可报价）
 
